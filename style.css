@@ -6,3 +6,7 @@ body{
 header{
     background-color: #579600af;
 }
+
+#carouselExampleCaptions .carousel-inner, #carouselExampleCaptions .carousel-item{
+    height: 40svh;
+}
