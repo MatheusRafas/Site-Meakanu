@@ -1,10 +1,14 @@
 body{
-    background-color: #f7d3515d ;
+    background-color: #DCCCBF ;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 header{
-    background-color: #579600af;
+    background-color: #8C8C8C;
+}
+
+footer{
+    background-color: #8C8C8C;
 }
 
 #carouselExampleCaptions .carousel-inner, #carouselExampleCaptions .carousel-item{
