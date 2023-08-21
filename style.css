@@ -8,5 +8,5 @@ header{
 }
 
 #carouselExampleCaptions .carousel-inner, #carouselExampleCaptions .carousel-item{
-    height: 40svh;
+    height: 25em;
 }
