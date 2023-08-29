@@ -29,7 +29,6 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-
 #carouselExampleCaptions .carousel-inner, #carouselExampleCaptions .carousel-item{
     height: 30em;
 }
@@ -44,6 +43,13 @@ main{
     justify-content: center;
     gap: 20px;
     padding: 35px;
+}
+
+h1{
+    text-align: center;
+    margin-top: 90px;
+    color: #8C8C8C;
+
 }
 
 
