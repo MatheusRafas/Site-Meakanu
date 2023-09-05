@@ -1,2 +1,2 @@
-# Site Meakanu
- Criação de um site sobre plantas, utilizando o Front-End.
+# Muscle Therapy 
+ Criação de um site sobre massoterapia, utilizando o Front-End (HTML, CSS e Booststrap).
