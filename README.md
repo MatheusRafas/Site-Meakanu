@@ -7,7 +7,7 @@
 
 <h2>🦾Composição🦾</h2>
 <p>
-- O projeto contém na sua compoisção: HTML, CSS e Bootstrap
+-🌐 O projeto contém na sua compoisção: HTML, CSS e Bootstrap
 </p>
 
 <h2>🦾Link do site🦾</h2>
