@@ -1,7 +1,7 @@
 <h1>💪MUSCLE THERAPY💪</h1> 
 <h2>🦾Descrição🦾</h2>
 <p>
-- 💬 Projeto de um site sobre massoterapia. 
+- 💬 Projeto de um site sobre massoterapia.<br>
 - 💬 O site tem na sua construção somente o front end.
 </p>
 
